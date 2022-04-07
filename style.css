@@ -1,0 +1,9 @@
+body{
+    font-family: cursive;
+    color:darkorange;
+    font-size: medium;
+    text-decoration: underline;
+}
+ul{
+    border: 2px inset #1C6EA4;
+}
